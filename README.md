@@ -4,7 +4,7 @@
 </div>
 <div align='center'>
 <!-- here input image  -->
- <img src='https://user-images.githubusercontent.com/46562138/142749686-5a3d1d97-0299-4380-92e5-c63d01a70dc3.png' width='350px' height='300px'/>
+ <img src='https://user-images.githubusercontent.com/46562138/142749686-5a3d1d97-0299-4380-92e5-c63d01a70dc3.png' width='360px' height='300px'/>
 </div>
 
 <br />
