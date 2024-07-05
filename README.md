@@ -14,7 +14,6 @@
   <img src='https://github-readme-stats.vercel.app/api?username=codeFabian&theme=calm&_icons=true' align='center' />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=codeFabian&theme=calm&_icons=true' align='center' height='195px'/>
 
-
 </div>
 
 
